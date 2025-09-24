@@ -1,6 +1,6 @@
 # Hi, I’m Jaden Cao
 
-Corvallis, OR • jadencao@email.com  
+Corvallis, OR • jad3encao@icloud.com 
 [GitHub](https://github.com/jadencao) • [LinkedIn](https://www.linkedin.com/in/jaden-cao-b2aa64370/)
 
 ---
@@ -62,19 +62,3 @@ _Computer Science Emphasis, Applied Computer Science Option_
 - Email: jad3encao@icloud.com / caoja@oregonstate.edu
 - [GitHub](https://github.com/jadencao)
 - [LinkedIn](https://www.linkedin.com/in/jaden-cao-b2aa64370/)
-## Hi there 👋
-
-<!--
-**jadencao/jadencao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
