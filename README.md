@@ -25,9 +25,16 @@ I am a **Systems & Security Engineer** in training, currently working as a Secur
 
 ## 📂 Featured Engineering Projects
 
+### 🐚 [Smallsh: Custom Linux Shell (C)](https://github.com/jadencao)
+*A custom shell implementation demonstrating low-level OS control.*
+* **Process Management:** Implemented `fork()`, `exec()`, and `waitpid()` to manage foreground and background processes.
+* **Signal Handling:** Engineered custom signal handlers (SIGINT, SIGTSTP) to manage shell behavior safely.
+* **I/O Redirection:** Manipulated file descriptors (`dup2`) to support input/output redirection (`<`, `>`) for executed commands.
+* **Tech Stack:** C, Linux API, Makefiles.
+
 ### 📡 [Reliable Data Transfer Simulator (C++)](https://github.com/jadencao/CS372-Networks)
 *Designed a custom transport-layer protocol to ensure reliable delivery over an unreliable network.*
-* Implemented **Stop-and-Wait** logic using UDP sockets.
+* Implemented **Stop-and-Wait** logic using UDP sockets to simulate TCP reliability.
 * Engineered packet **checksumming**, **sequence numbering**, and **retransmission timers** to handle data corruption and loss.
 * Simulated network jitter and packet drops to stress-test protocol robustness.
 
@@ -37,16 +44,11 @@ I am a **Systems & Security Engineer** in training, currently working as a Secur
 * Built **QR code provisioning** compatible with Google Authenticator.
 * Analyzed trade-offs between security and usability in 2FA implementations.
 
-### ⚙️ [Low-Level Procedures & Macros (x86 MASM)](https://github.com/jadencao/CS271-MASM)
+### ⚙️ [x86 Architecture & Assembly Logic (MASM)](https://github.com/jadencao)
 *Systems programming in x86 Assembly to understand computer architecture fundamentals.*
 * Managed the **system stack** manually (push/pop) for procedure calls and parameter passing.
 * Manipulated CPU **registers** and memory addressing for optimized data processing.
 * Wrote custom macros for low-level I/O handling.
-
-### 🕵️ [Network Diagnostics & Traceroute (Python)](https://github.com/jadencao/jadencao)
-*Built a custom traceroute utility using raw sockets.*
-* Manipulated **IP TTL (Time-to-Live)** fields to map network hops.
-* Parsed **ICMP "Time Exceeded"** responses to calculate Round-Trip Time (RTT) for each node.
 
 ---
 
