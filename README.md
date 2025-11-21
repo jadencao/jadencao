@@ -1,64 +1,54 @@
-# Hi, I’m Jaden Cao
+# Hi, I’m Jaden Cao 👋
+### 🖥️ Computer Science Senior @ Oregon State University
+**Cybersecurity | Embedded Systems | Network Engineering**
 
-Corvallis, OR • jad3encao@icloud.com 
-[GitHub](https://github.com/jadencao) • [LinkedIn](https://www.linkedin.com/in/jaden-cao-b2aa64370/)
-
----
-
-## Education
-
-**Oregon State University (OSU)**  
-_B.S. Computer Science, Cybersecurity Option (In Progress)_  
-College of Engineering • Senior Standing
-
-**Linn Benton Community College, Albany, OR**  
-_Computer Science Emphasis, Applied Computer Science Option_
+📍 **Location:** Corvallis/Portland, OR  
+📧 **Contact:** [jad3encao@icloud.com](mailto:jad3encao@icloud.com)  
+🔗 **LinkedIn:** [linkedin.com/in/jaden-cao-25malu](https://linkedin.com/in/jaden-cao-25malu)
 
 ---
 
-## Skills
-
-- **Languages & Tools:** Python, C/C++, JavaScript, SQL (MySQL), HTML/CSS, MASM, Git/GitHub, Linux, VS Code
-- **Security & Networking:** Wireshark, socket programming (ICMP/TCP/UDP), traceroute/ping, NAT, subnetting/CIDR, DVWA (XSS, SQLi), cryptography (TOTP, Bloom filters), penetration testing basics
-- **Databases:** MySQL schema design, SQL queries (CRUD, JOINs, aggregation), normalization, REST API integration
-- **Collaboration & Leadership:** Agile sprints, GitHub Issues/PRs, peer code reviews, technical documentation, group-based problem solving, clear communication, adaptability
+## 🚀 About Me
+I am a **Systems & Security Engineer** in training, currently working as a Security Apprentice at **ORTSOC** (The Nation's First Cyber Security Teaching Hospital). My passion lies in the intersection of **low-level software** (C/Assembly), **networking protocols**, and **defensive security**. I am currently targeting roles in Embedded Systems and Network Security.
 
 ---
 
-## Featured Projects
-
-### Networking
-- **Traceroute & ICMP Diagnostics (Python):** Built a custom traceroute utility manipulating TTL and parsing ICMP “Time Exceeded” responses to map network paths and calculate RTTs.  
-  [Repo Link](https://github.com/jadencao/CS372-Networks)
-- **Reliable Data Transfer Simulator (C++):** Implemented a Stop-and-Wait transport protocol with checksums, retransmissions, and timeouts for reliable delivery over an unreliable channel.
-
-### Security
-- **Bloom Filter Password Detector (C/Python):** Created a probabilistic password blacklist checker tested on rockyou.txt; analyzed false positive trade-offs and cybersecurity applications.
-- **OTP/TOTP Authenticator (Python):** Developed an RFC 6238-based one-time password generator with QR provisioning for Google Authenticator; applied secure key management concepts.
-- **DVWA Exploitation Labs:** Conducted hands-on penetration testing (XSS, SQLi), documented findings and best practices.
-
-### Databases & Web Development
-- **CRUD Web App (JavaScript/Node/MySQL):** Designed a full-stack app integrating MySQL database with REST APIs for dynamic data management and secure authentication.  
-  [Repo Link](https://github.com/jadencao/CS-340-Project)
-- **SQL Experience:** Built normalized relational schemas, optimized queries, implemented JOINs, aggregation, and ensured data integrity using MySQL Workbench and XAMPP.
-
-### Additional Coursework
-- **Operating Systems:** Implemented multi-threaded producer-consumer counters in C, focusing on concurrency and resource management.
-- **Collaboration:** Led and contributed to group-based OSU CS projects (2–4 peers), practicing documentation, code review, and sprint planning.
+## 🛠️ Tech Stack
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Assembly](https://img.shields.io/badge/x86_Assembly-A8B9CC?style=flat-square&logo=intel&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+| **Networking** | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) TCP/IP, UDP, Sockets, DNS, DHCP, NAT, Subnetting |
+| **Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Multi-threading, Process Management, VirtualBox/VMware |
+| **Security** | NIST CSF, MITRE ATT&CK, Ghidra, Nmap, Burp Suite, Cryptography (TOTP) |
 
 ---
 
-## Leadership & Activities
+## 📂 Featured Engineering Projects
 
-- Collaborated on OSU CS projects using GitHub PRs and sprints for version control and peer code review.
-- Practiced leadership, teamwork, and adaptability in group projects and technical report writing.
-- Completed security labs (Wireshark TCP/IP analysis, malware/mobility modules, DVWA practice).
-- Active in group-based problem solving and technical documentation.
+### 📡 [Reliable Data Transfer Simulator (C++)](https://github.com/jadencao/CS372-Networks)
+*Designed a custom transport-layer protocol to ensure reliable delivery over an unreliable network.*
+* Implemented **Stop-and-Wait** logic using UDP sockets.
+* Engineered packet **checksumming**, **sequence numbering**, and **retransmission timers** to handle data corruption and loss.
+* Simulated network jitter and packet drops to stress-test protocol robustness.
+
+### 🛡️ [RFC 6238 MFA Authenticator (Python)](https://github.com/jadencao/CS370-Security)
+*Developed a Time-Based One-Time Password (TOTP) generator compliant with RFC 6238.*
+* Implemented **HMAC-SHA1** cryptographic hashing for secure token generation.
+* Built **QR code provisioning** compatible with Google Authenticator.
+* Analyzed trade-offs between security and usability in 2FA implementations.
+
+### ⚙️ [Low-Level Procedures & Macros (x86 MASM)](https://github.com/jadencao/CS271-MASM)
+*Systems programming in x86 Assembly to understand computer architecture fundamentals.*
+* Managed the **system stack** manually (push/pop) for procedure calls and parameter passing.
+* Manipulated CPU **registers** and memory addressing for optimized data processing.
+* Wrote custom macros for low-level I/O handling.
+
+### 🕵️ [Network Diagnostics & Traceroute (Python)](https://github.com/jadencao/jadencao)
+*Built a custom traceroute utility using raw sockets.*
+* Manipulated **IP TTL (Time-to-Live)** fields to map network hops.
+* Parsed **ICMP "Time Exceeded"** responses to calculate Round-Trip Time (RTT) for each node.
 
 ---
 
-## Connect with Me
-
-- Email: jad3encao@icloud.com / caoja@oregonstate.edu
-- [GitHub](https://github.com/jadencao)
-- [LinkedIn](https://www.linkedin.com/in/jaden-cao-b2aa64370/)
+## 📊 GitHub Activity
+![Jaden's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jadencao&show_icons=true&theme=tokyonight&hide_border=true)
