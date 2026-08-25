@@ -24,6 +24,16 @@ My background includes a year and a half as a student security analyst apprentic
 
 ##  Featured Engineering Projects
 
+###  portfolio (Cybersecurity & UX/Design)
+
+A curated portfolio showcasing academic and professional projects in cybersecurity, systems architecture, and UX design.
+
+*   **Network Security Architecture:** Comprehensive 20-page institutional security blueprint addressing defense-in-depth, network segmentation, MFA strategies, encryption standards, and incident response planning.
+
+*   **UX/UI Design:** Complete user interface design built on formative research and usability testing, with design decisions grounded in Nielsen's 10 Usability Heuristics.
+
+*   Repo Link: https://github.com/jadencao/portfolio
+
 ###  cs406-misp-pipeline (Collaborative CTI Engineering)
 
 A collaborative, containerized Malware Information Sharing Platform (MISP) deployment on DigitalOcean.
