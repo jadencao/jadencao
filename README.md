@@ -28,9 +28,9 @@ My background includes a year and a half as a student security analyst apprentic
 
 A curated portfolio showcasing academic and professional projects in cybersecurity, systems architecture, and UX design.
 
-*   **Network Security Architecture:** Comprehensive 20-page institutional security blueprint addressing defense-in-depth, network segmentation, MFA strategies, encryption standards, and incident response planning.
+*   **Network Security Architecture:** Comprehensive 20-page institutional security blueprint addressing defense-in-depth, network segmentation, MFA strategies, encryption standards, and incident response planning. [View Document](https://github.com/jadencao/portfolio/tree/main/network-security)
 
-*   **UX/UI Design:** Complete user interface design built on formative research and usability testing, with design decisions grounded in Nielsen's 10 Usability Heuristics.
+*   **UX/UI Design:** Complete user interface design built on formative research and usability testing, with design decisions grounded in Nielsen's 10 Usability Heuristics. [View Presentation](https://github.com/jadencao/portfolio/tree/main/ux-design)
 
 *   Repo Link: https://github.com/jadencao/portfolio
 
